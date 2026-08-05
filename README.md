@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My photo] (https://github.com/Eski132/eski132/blob/main/ege.png)
+![My photo] ([https://github.com/Eski132/eski132/blob/main/ege.png](https://github.com/Eski132/eski132/blob/80e778e412b73cf82b32f0183839eb07245e0a52/ege.png))
 <!--
 **Eski132/eski132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
