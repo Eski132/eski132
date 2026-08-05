@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<svg xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="20" font-family="monospace" fill="red">
-    JJJCJUJUUUUU
-  </text>
-</svg>
+<span style="color:red">JJJJ</span>
+<span style="color:blue">UUUU</span>
 
 <!--
 **Eski132/eski132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
