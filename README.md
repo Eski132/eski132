@@ -3,6 +3,7 @@
 # `> Eski132 <`
 
 ### I use arch btw
+### Full stack developer
 
 <br>
 
