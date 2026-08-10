@@ -1,8 +1,8 @@
 <div align="center">
 
-`> Eski132 <`
+# `> Eski132 <`
 
-### open source • experiments • useful things on the internet
+### I use arch btw
 
 <br>
 
