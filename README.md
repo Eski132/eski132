@@ -24,9 +24,11 @@
 
 ---
 
+<div align="center">
+
 ### Contact
 
-[![@eski132](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x)](https://x.com/eski132)
+[![@eski132](https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x)](https://x.com/eski132)
 [![gedif](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord)](https://discord.com/users/822900686236680233)
 
 <br>
