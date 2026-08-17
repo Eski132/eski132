@@ -6,23 +6,21 @@
 
 <br>
 
-[![people who follows me for some reason](https://img.shields.io/github/followers/eski132?style=for-the-badge&label=people+who+follows+me+for+some+reason&color=111111)](https://github.com/Eski132)
-[![people who stalks me](https://komarev.com/ghpvc/?username=eski132&color=lightgrey&abbreviated=true&label=people+who+stalks+me&style=for-the-badge)](https://github.com/Eski132)
+[![people who follows me for some reason](https://img.shields.io/github/followers/eski132?style=for-the-badge&label=people+who+follows+me+for+some+reason&color=111111)]
+<br>
+[![people who stalks me](https://komarev.com/ghpvc/?username=eski132&color=lightgrey&abbreviated=true&label=people+who+stalks+me&style=for-the-badge)]
 
 </div>
 
 ---
 
-### `Languages that i know (probably)`
-
 <div align="center">
+
+### Things that i know (probably)
 
 <!-- Replace these with your actual stack -->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js)
+![Html](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=html)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
@@ -40,7 +38,7 @@
 
 ---
 
-### `08. find_me`
+### 08. find_me
 
 ```txt
 github    → github.com/YOUR_USERNAME
@@ -53,6 +51,6 @@ linkedin  → linkedin.com/in/YOUR_USERNAME
 
 <br>
 
-`// still building...`
+<!-- I am not done with this okayyy!! okayyy i am still doing this -->
 
 </div>
