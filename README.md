@@ -20,11 +20,12 @@
 
 <!-- Replace these with your actual stack -->
 
-![Html](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=html)
+![Html](https://img.shields.io/badge/Html-111111?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker)
 
 </div>
 
