@@ -14,7 +14,7 @@
 
 ![Html](https://img.shields.io/badge/Html-111111?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
