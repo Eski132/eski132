@@ -12,13 +12,13 @@
 
 ### Things that i know
 
-![Html](https://img.shields.io/badge/Html-111111?style=for-the-badge\&logo=html5)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=663399)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 
 </div>
 
@@ -26,11 +26,9 @@
 
 ### Contact
 
-```txt
-discord   → gedif
-twitter   → x.com/eski132
+[![@eski132](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x)](https://x.com/eski132)
+[![gedif](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord)](https://discord.com/users/822900686236680233)
 
-```
 <br>
 <div align="center">
 
