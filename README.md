@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Things that i know (probably)
+### Things that i know
 
 <!-- Replace these with your actual stack -->
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Incase you want to contact me 
+### Contact
 
 ```txt
 github    → github.com/eski132
@@ -35,7 +35,9 @@ i do not want to dox myself so you only get discord there you go
 ```
 <br>
 
-I use arch btw
+<div align="center">
+
+# I use arch btw
 
 <!-- I am not done with this okayyy!! okayyy i am still doing this -->
 
