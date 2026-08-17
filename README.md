@@ -28,9 +28,8 @@
 
 ```txt
 discord   → gedif
+twitter   → x.com/eski132
 
-i do not want to doxx myself so you only get those
-there you go 
 ```
 <br>
 <div align="center">
