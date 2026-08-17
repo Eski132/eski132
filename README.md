@@ -13,7 +13,7 @@
 ### Things that i know
 
 ![Html](https://img.shields.io/badge/Html-111111?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=663399)
 ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
