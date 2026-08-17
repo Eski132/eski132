@@ -6,9 +6,9 @@
 
 <br>
 
-[![people who follows me for some reason](https://img.shields.io/github/followers/eski132?style=for-the-badge&label=people+who+follows+me+for+some+reason&color=111111)]
+![people who follows me for some reason](https://img.shields.io/github/followers/eski132?style=for-the-badge&label=people+who+follows+me+for+some+reason&color=111111)
 <br>
-[![people who stalks me](https://komarev.com/ghpvc/?username=eski132&color=lightgrey&abbreviated=true&label=people+who+stalks+me&style=for-the-badge)]
+![people who stalks me](https://komarev.com/ghpvc/?username=eski132&color=lightgrey&abbreviated=true&label=people+who+stalks+me&style=for-the-badge)
 
 </div>
 
@@ -21,11 +21,12 @@
 <!-- Replace these with your actual stack -->
 
 ![Html](https://img.shields.io/badge/Html-111111?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux)
+![Minecraft](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logo=minecraft&logoColor=white)
 
 </div>
 
