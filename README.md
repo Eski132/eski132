@@ -7,7 +7,7 @@
 <br>
 
 [![people who follows me for some reason](https://img.shields.io/github/followers/eski132?style=for-the-badge&label=people+who+follows+me+for+some+reason&color=111111)](https://github.com/Eski132)
-[![people who stalks me](https://komarev.com/ghpvc/?username=eski132&color=lightgrey&abbreviated=true&label=people+who+stalks+me&style=flat-square)](https://github.com/Eski132)
+[![people who stalks me](https://komarev.com/ghpvc/?username=eski132&color=lightgrey&abbreviated=true&label=people+who+stalks+me&style=for-the-badge)](https://github.com/Eski132)
 
 </div>
 
