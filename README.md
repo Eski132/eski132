@@ -29,7 +29,8 @@
 github    → github.com/eski132
 discord   → gedif
 
-i do not want to doxx myself so you only get those there you go 
+i do not want to doxx myself so you only get those
+there you go 
 ```
 <br>
 <div align="center">
